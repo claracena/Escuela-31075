@@ -1,6 +1,5 @@
 # Clases de apoyo
-### Curso Python - Comisión 31075
-### CoderHouse
+### Curso Python - Comisión 31075 - CoderHouse
 
 Este repositorio tendrá las clases de apoyo brindadas por mi a mis compañeros del curso de Python en la comisión 31075 de CoderHouse.
 
